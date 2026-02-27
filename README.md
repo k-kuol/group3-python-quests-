@@ -105,7 +105,8 @@ bash# Quests 1–9 have spaces in filenames
 python "quest 1.py"
 python "quest 2.py"
 
-# Quests 11+ have no spaces
+Quests 11+ have no spaces
+
 python quest11.py
 python quest12.py
 Requirements
