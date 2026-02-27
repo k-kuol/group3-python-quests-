@@ -1,6 +1,7 @@
 Group 3 Python Quests
 
 A collection of Python programming exercises covering fundamental concepts including variables, data types, user input, conditionals, loops, functions, and interactive programs.
+
 Overview
 
 This repository contains 27/30 Python quest files organized across 6 levels, designed to practice core programming concepts through hands-on, adventure-themed exercises.
